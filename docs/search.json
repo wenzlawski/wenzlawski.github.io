@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\nTo visit my blog head to https://wenzlawski.github.io/blog"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "test.html",
+    "href": "test.html",
+    "title": "Test jupyter notebook",
+    "section": "",
+    "text": "This is strictly for testing. The jupyter notebook is automatically rendered to the blog site. This means that I can render any and all jupyter notebooks to the blog site. This is a great way to share code and results.\n\nimport numpy as np\nimport matplotlib.pyplot as plt\n\n\nx = np.linspace(0, 2 * np.pi, 100)\ny = np.sin(x)\n\nplt.plot(x, y)"
+  }
+]

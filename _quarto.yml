@@ -9,12 +9,15 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-      - test.ipynb
+      - text: Blog
+        href: https://wenzlawski.github.io/blog
 
 format:
   html:
-    theme: simplex
-    css: styles.css
+    theme: 
+      light: simplex
+      dark: cyborg
+    css: styles.scss
     toc: true
 
 

@@ -15,10 +15,14 @@ website:
 format:
   html:
     theme: 
-      light: simplex
-      dark: cyborg
+      light: [default, theme-light.scss]
+      dark: [cyborg, theme-dark.scss]
     css: styles.scss
     toc: true
+
+
+
+
 
 
 
